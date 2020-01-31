@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་ཆོས་འབྱུང་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
+    རྣམ་ཐར་ཟངས་གླིང་མའོ།།
+  authors:
+  - མཛད་པ་པོ། ཉང་རལ་ཉི་མ་འོད་ཟེར།
+  sku: SHE-RTD-001
+  layers:
+  - book_title
+  - author
+  - yigchung
+web_metadata:
+  title:
+    en: A Jewel Ladder:The Common Preliminary Teachings
+    bo: ཐུན་མོང་གི་སྔོན་འགྲོའི་ཆོས་བཤད་རིན་ཆེན་ཐེམ་སྐས་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 8
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༨
+  author:
+    en: Minling Terchen Gyurme Dorje
+    bo: སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-001
+  category:
+    en: Preliminary Practices
+    bo: སྔོན་འགྲོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-001.epub
+  description:
+    en: ''
+    bo: ''
