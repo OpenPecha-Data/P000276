@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000276
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སློབ་དཔོན་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་ཆོས་འབྱུང་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ༔
     རྣམ་ཐར་ཟངས་གླིང་མའོ།།
   authors:
   - མཛད་པ་པོ། ཉང་རལ་ཉི་མ་འོད་ཟེར།
-  sku: SHE-RTD-001
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-RTD-001
 web_metadata:
   title:
     en: A Jewel Ladder:The Common Preliminary Teachings
